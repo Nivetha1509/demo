@@ -1,2 +1,1 @@
-"this is nivetha"
-"working in git"
+"this is Nivetha"
